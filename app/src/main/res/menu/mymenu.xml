@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="com.abc.in.kural.AthikaramActivity">
+    <item
+        android:id="@+id/serkural"
+        android:icon="@android:drawable/ic_menu_search"
+        android:orderInCategory="100"
+        android:title="Search"
+        app:showAsAction="always" />
+    <item
+        android:id="@+id/notifi"
+        android:icon="@android:drawable/ic_popup_reminder"
+        android:orderInCategory="101"
+        android:title="Daily Notification"
+        app:showAsAction="always" />
+
+
+
+
+    <item
+        android:id="@+id/aboutme"
+        android:icon="@android:drawable/ic_menu_info_details"
+        android:orderInCategory="101"
+        android:title="About"
+        app:showAsAction="never" />
+
+</menu>

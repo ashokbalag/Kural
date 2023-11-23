@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Thirukkural</string>
+    <string name="my_app_name">திருக்குறள்</string>
+    <string name="title_activity_home">Kural</string>
+
+    <string name="screen_name">தமிழ்</string>
+    <string name="screen_name_1">திருக்குறள்</string>
+    <string name="screen_name_2">ஆத்திச்சூடி</string>
+    <string name="screen_home">தமிழ்</string>
+    <string name="screen_home_en">Tamil</string>
+</resources>
